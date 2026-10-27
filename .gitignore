@@ -1,0 +1,44 @@
+# Instrucciones y notas internas
+CLAUDE.md
+AGENTS.md
+.claude/
+_herramientas/
+
+# Archivos de SEO, descubrimiento y verificación (viven solo en producción)
+robots.txt
+llms.txt
+humans.txt
+sitemap.xml
+.well-known/
+[0-9a-f]*[0-9a-f].txt
+!LICENSE.txt
+
+# Datos de catálogo y tarifas (privados)
+tarifa.json
+planes.cache.json
+
+# Entorno y secretos
+.env
+.env.*
+*.pem
+*.key
+
+# Respaldos, temporales y sistema
+*.bak
+*.bak*
+*.old
+*.orig
+*.tmp
+*.log
+*.sql
+*.swp
+*~
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+node_modules/
+vendor/
+
+# Materiales de redes sociales
+linkedin/

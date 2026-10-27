@@ -1,0 +1,39 @@
+Copyright (c) 2023-2026 Alkes, Software y Soluciones TI. Todos los derechos reservados.
+Copyright (c) 2023-2026 Alkes, Software y Soluciones TI. All rights reserved.
+
+LICENCIA DE CODIGO DISPONIBLE PARA CONSULTA (SOURCE-AVAILABLE, NO ABIERTA)
+
+Este repositorio es publico unicamente para que se pueda leer y evaluar el codigo.
+Publicarlo no concede ninguna licencia de uso, copia ni distribucion.
+
+PERMITIDO
+- Ver y leer el codigo fuente en este repositorio.
+- Hacer las copias temporales estrictamente necesarias para verlo en su navegador
+  o en su editor.
+- Citar fragmentos breves con fines de revision, ensenanza o critica, mencionando
+  la fuente.
+
+PROHIBIDO sin autorizacion previa, expresa y por escrito del titular
+- Copiar, reproducir o redistribuir el codigo, los textos, el diseno, las
+  imagenes, los iconos, las marcas y demas contenido, total o parcialmente.
+- Modificar, adaptar, traducir o crear obras derivadas.
+- Usar el codigo, el diseno o el contenido en sitios, productos o servicios,
+  propios o de terceros, comerciales o no.
+- Sublicenciar, vender, alquilar o publicar el contenido en otro lugar.
+- Usarlo para entrenar modelos de inteligencia artificial o para extraer datos
+  de forma masiva.
+- Usar los nombres y logotipos de Alkes y de sus productos, que son marcas del
+  titular.
+
+Los terceros cuyos componentes aparezcan aqui (por ejemplo, tipografias de codigo
+abierto) conservan sus propias licencias.
+
+EL CONTENIDO SE ENTREGA "TAL CUAL", SIN GARANTIA DE NINGUN TIPO. EL TITULAR NO
+SERA RESPONSABLE DE DANO ALGUNO DERIVADO DE SU CONSULTA.
+
+Para pedir autorizacion: soporte@alkes.mx
+
+---------------------------------------------------------------------------
+ENGLISH SUMMARY: You may read this source code. You may not copy, modify,
+redistribute, reuse, train AI models on, or use it in any product or service
+without prior written permission. All rights reserved.
