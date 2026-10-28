@@ -2,7 +2,6 @@
 CLAUDE.md
 AGENTS.md
 .claude/
-_herramientas/
 
 # Archivos de SEO, descubrimiento y verificación (viven solo en producción)
 robots.txt
@@ -41,4 +40,3 @@ node_modules/
 vendor/
 
 # Materiales de redes sociales
-linkedin/
